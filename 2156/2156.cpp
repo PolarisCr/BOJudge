@@ -27,5 +27,6 @@ int main()
 		sum[i] = max((sum[i - 3] + mass[i - 1] + mass[i]), (sum[i - 2] + mass[i]));
 		sum[i] = max(sum[i - 1], sum[i]);
 	}
-		cout << sum[count];
+		cout << sum[count] << endl;
+		return 0;
 }
