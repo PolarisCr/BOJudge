@@ -1,10 +1,14 @@
 #include <iostream>
-#include <queue>
 using namespace std;
 int arr[501][501] = { 0 };
 int maxarr[501][501] = { 0 };
-queue <pair <int, int> > qu;
-
+int max(int a, int b)
+{
+	if (a >= b)
+		return a;
+	else
+		return b;
+}
 int main()
 {
 	int x;
