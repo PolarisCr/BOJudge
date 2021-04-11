@@ -1,4 +1,4 @@
-/*
+/*********************************************************
 *   Number : Backjoon Online Judge 9184
 *   Link : https://www.acmicpc.net/problem/9184
 *   Subject : 신나는 함수 실행
@@ -6,7 +6,7 @@
 *   Submit Number : 28260748
 *   Runtime Memory / Time : 2052 KB / 508ms
 *   Author : PolarisCr
-*/
+*********************************************************/
 
 #include <iostream>
 
