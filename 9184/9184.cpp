@@ -7,7 +7,6 @@
 *   Runtime Memory / Time : 2052 KB / 508ms
 *   Author : PolarisCr
 *********************************************************/
-
 #include <iostream>
 
 using namespace std;
